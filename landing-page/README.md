@@ -2,26 +2,26 @@
 
 # Landing Page
 
-A simple landing page made for **The Odin Project Foundations** assignment.
+A simple landing page made for The Odin Project Foundations assignment.
 
-## Files
+Files
 
-* `index.html` – webpage structure
-* `style.css` – webpage design
+* index.html – webpage structure
+* style.css – webpage design
 
-## How to Run
+How to Run
 
 1. Open the folder in VS Code.
-2. Open `index.html` in a browser.
+2. Open index.html in a browser.
 3. View the landing page.
 
-## Technologies
+Technologies
 
 * HTML
 * CSS
 * Flexbox
 
-## Author
+Author
 
 Pathre S. Tabungar
 
